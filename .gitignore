@@ -1,12 +1,5 @@
 ### IntelliJ IDEA ###
 out/
-src/GameWindow.java
-src/KeyListener.java
-src/Level.java
-src/Main.java
-src/Rect.java
-
-src/
 
 *.idea/
 !**/src/main/**/out/
